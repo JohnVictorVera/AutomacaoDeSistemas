@@ -6,6 +6,8 @@ Buscando poupar tempo durante a execução das minhas atividades no trabalho, cr
 
 O meu sistema, a partir das informações inseridas nele, abre automaticamente o navegador Firefox e  realiza o lançamentos dessas consultas, desde a parte de logar no sistema até o último clique no botão "Salvar" para lançar as consultas realizadas pelos médicos.
 
+(https://private-user-images.githubusercontent.com/203187817/456685376-412cff5e-001e-4f88-b633-9d0c27030360.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAyNzYwNTIsIm5iZiI6MTc1MDI3NTc1MiwicGF0aCI6Ii8yMDMxODc4MTcvNDU2Njg1Mzc2LTQxMmNmZjVlLTAwMWUtNGY4OC1iNjMzLTlkMGMyNzAzMDM2MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxOFQxOTQyMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMmIzN2FhY2YxZTFhYjdiZTliMDk5MzgwMTM1OGE2M2MzYzdmZWNiMTg3Yzc2OWJkMGExYzAwZDZjNjE2YzQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-ydAbcwM1EG7siGEYVSjl5iv39qywwk1adIFkXDDYe0)
+
 ## Estrutura
 
 - `app.py`: Interface principal em Streamlit.
