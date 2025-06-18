@@ -1,6 +1,12 @@
 # Sistema de Automação
 
-Automação de tarefas nos sistemas iConsorcio e GovBr (futuramente) usando Python, Selenium e Streamlit.
+Automação de tarefas nos sistemas iConsorcio e GovBR usando Python, Selenium e Streamlit.
+Buscando poupar tempo durante a execução das minhas atividades no trabalho, criei esse pequeno sistema 
+de automação que realiza o lançamento automático de consultas médicos no sistema iConsorcio, com base 
+em um arquivo .xls ou .xlsx emitido pelo sistema GovBR.
+O meu sistema, a partir das informações inseridas nele, abre automaticamente o navegador firefox e 
+realiza o lançamentos dessas consultas, desde a parte de logar no sistema até o último clique no botão 
+"Salvar" para lançar as consultas realizadas pelos médicos.
 
 ## Estrutura
 
