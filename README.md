@@ -6,12 +6,6 @@ Buscando poupar tempo durante a execução das minhas atividades no trabalho, cr
 
 O meu sistema, a partir das informações inseridas nele, abre automaticamente o navegador Firefox e  realiza o lançamentos dessas consultas, desde a parte de logar no sistema até o último clique no botão "Salvar" para lançar as consultas realizadas pelos médicos.
 
-(img/telainicial.png)
-
-(img/aposadicionararquivo.png)
-
-(img/botaoiniciar.png)
-
 ## Estrutura
 
 - `app.py`: Interface principal em Streamlit.
