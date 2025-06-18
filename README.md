@@ -6,11 +6,11 @@ Buscando poupar tempo durante a execução das minhas atividades no trabalho, cr
 
 O meu sistema, a partir das informações inseridas nele, abre automaticamente o navegador Firefox e  realiza o lançamentos dessas consultas, desde a parte de logar no sistema até o último clique no botão "Salvar" para lançar as consultas realizadas pelos médicos.
 
-![Tela1] (./img/telainicial.png)
+(./img/telainicial.png)
 
-![Tela2] (./img/aposadicionararquivo.png)
+(./img/aposadicionararquivo.png)
 
-![Tela3] (./img/botaoiniciar.png)
+(./img/botaoiniciar.png)
 
 ## Estrutura
 
