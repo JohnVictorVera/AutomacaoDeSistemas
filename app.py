@@ -32,7 +32,7 @@ if menu == "Automação iConsorcio - Consultas":
     medico = st.text_input("Nome do Médico (Nome completo)", value=medico_default)
     fornecedor = st.text_input("Fornecedor (Nome completo)")
     procedimento = st.selectbox("Procedimento (Descrição completa)", [
-        "CONSULTA MEDICA EM ATENÇÃO ESPECIALIZADA - ESTRUTURA DO MUNICIPIO",
+        "CONSULTA MEDICA EM ATENÇÃO ESPECIALIZADA / ATENÇÃO BASICA - ESTRUTURA DO MUNICIPIO",
         "CONSULTA MEDICA EM ATENÇÃO ESPECIALIZADA - ESTRUTURA DO PRESTADOR",
         "CONSULTA MEDICA EM ATENÇÃO ESPECIALIZADA  NEUROLOGISTA/ NEUROCIRURGIA - ESTRUTURA DO MUNICIPIO",
         "EXCISAO DE LESAO E/OU SUTURA DE FERIMENTO DA PELE ANEXOS E MUCOSA",
